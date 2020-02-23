@@ -1,2 +1,2 @@
 # numerical_analysis_toolkit
-Some sparse functions for basic numerical analysis
+Some homebrew functions for basic numerical analysis
